@@ -1,3 +1,3 @@
 # Music-Popularity-Prediction-
 
-Predicting music popularity involves using machine learning to guess how much people will like songs based on their sound. This helps streaming platforms figure out what users prefer, improve playlists, and suggest music better to keep users happy and engaged.
+This model is designed to predict how popular a song will be using its audio characteristics. By analyzing features like energy, danceability, and tempo, the model learns patterns that correlate with a song's popularity. This helps streaming platforms tailor playlists and recommendations to match what users enjoy most, aiming to keep them satisfied and engaged with the music they listen to.
